@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋, I'm Eugenia!
+
+## About Me
+
+I'm an undergraduate student majoring in Industrial Engineering and Computer Science at Northwestern University, currently exploring the field of data science and software development. Feel free to reach out to me at eugeniacao2026@u.northwestern.edu!
+
+## Stats
+[![Eugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenia0804&show_icons=true&theme=merko))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eugenia0804/eugenia0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
