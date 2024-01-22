@@ -2,10 +2,7 @@
 
 ## About Me
 
-I'm an undergraduate student majoring in Industrial Engineering and Computer Science at Northwestern University, currently exploring the field of data science and software development. Feel free to reach out to me at eugeniacao2026@u.northwestern.edu!
-
-## Stats
-![Eugenia's GitHub stats](https://github-readme-stats.zohan.tech/api?username=eugenia0804&show_icons=true&theme=radical)
+I'm an undergraduate student majoring in Industrial Engineering and Computer Science at Northwestern University, currently exploring the field of data science and software engineering. Feel free to reach out to me at eugeniacao2026@u.northwestern.edu!
 
 ## Streaks
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eugenia0804&theme=tokyonight)](https://git.io/streak-stats)
