@@ -2,7 +2,7 @@
 
 ## ✨ About Me
 
-I'm a third-year undergraduate student pursuing a combined **BS/MS degree in Industrial Engineering and Computer Science** at Northwestern University. I'm passionate about **Machine Learning** and **Software Engineering**!
+I'm a final year undergraduate student pursuing a combined **BS/MS degree in Industrial Engineering and Computer Science** at Northwestern University. I'm passionate about **Machine Learning** and **Software Engineering**!
 
 * 🔭 **Currently working on:**
     * Research in Computational Photography 📸
